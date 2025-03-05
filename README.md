@@ -1,15 +1,15 @@
 # digital-storefront-saas
 Digital Storefront SAAS application
 
-digital-storefront-saas/
-
-├── pom.xml  # Parent POM
-|
-├── discovery-service/
-|
-│   ├── pom.xml
-|
-│   ├── src/main/java/com/ankit/discovery/DiscoveryServiceApplication.java
+digital-storefront-saas/  
+  
+├── pom.xml  # Parent POM  
+|  
+├── discovery-service/  
+|  
+│   ├── pom.xml  
+|  
+│   ├── src/main/java/com/ankit/discovery/DiscoveryServiceApplication.java  
 |
 │   ├── src/main/resources/application.yml
 |
